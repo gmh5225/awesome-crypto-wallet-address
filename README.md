@@ -4,17 +4,18 @@ A curated list of verified wallet addresses belonging to notable figures in the 
 
 ## Verified Addresses
 ----------------------------------------
-### Ethereum Foundation
+### Ethereum Foundation Private Wallet
 - Address1: `0xd779332c5a52566dada11a075a735b18daa6c1f4`
 - Address2: `0x9d2d789725cd742e6f4e423cec33408598cc43b1`
 - Role: Ethereum Foundation Treasury
 - Verification: [Known Transactions](https://etherscan.io/tx/0x04c396580129619efaf0602ce5a762a3c72e9718012600ade7af8fb17b747704), [Known Transactions](https://etherscan.io/tx/0x8e8180fb429ddaa6895cb5480b75ddda00f8357d8efcf9049b8b13ceab13cdec)
-- Note: One of the primary Ethereum Foundation addresses, used for grants and development funding
+- Note: One of the private Ethereum Foundation addresses.
 ----------------------------------------
 ### Ethereum Foundation Development Wallet
-- Address: `0xde0B295669a9FD93d5F28D9Ec85E40f4cb697BAe`
+- Address1: `0xde0B295669a9FD93d5F28D9Ec85E40f4cb697BAe`
+- Address2: `0x9ee457023bb3de16d51a003a247baead74fd6453`
 - Role: Developer Grants and Bounties
-- Verification: [Etherscan](https://etherscan.io/address/0xde0B295669a9FD93d5F28D9Ec85E40f4cb697BAe)
+- Verification: [Etherscan](https://etherscan.io/address/0xde0B295669a9FD93d5F28D9Ec85E40f4cb697BAe), [Etherscan](https://etherscan.io/address/0x9ee457023bb3de16d51a003a247baead74fd6453)
 - Note: Used for developer grants and ecosystem development
 ----------------------------------------
 ### Vitalik Buterin
