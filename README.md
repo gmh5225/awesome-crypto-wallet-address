@@ -13,7 +13,7 @@ A curated list of verified wallet addresses belonging to notable figures in the 
 ### Ethereum Foundation Development Wallet
 - Address: `0xde0B295669a9FD93d5F28D9Ec85E40f4cb697BAe`
 - Role: Developer Grants and Bounties
-- Verification: [Etherscan](https://etherscan.io/address/0x9ee457023bb3de16d51a003a247baead74fd6453)
+- Verification: [Etherscan](https://etherscan.io/address/0xde0B295669a9FD93d5F28D9Ec85E40f4cb697BAe)
 - Note: Used for developer grants and ecosystem development
 ----------------------------------------
 ### Vitalik Buterin
