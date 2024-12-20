@@ -47,9 +47,10 @@ A curated list of verified wallet addresses belonging to notable figures in the 
 - Verification: [BitInfoCharts](https://bitinfocharts.com/bitcoin/address/1P5ZEDWTKTFGxQjZphgWPQUpe554WKDfHQ)
 ----------------------------------------
 ### Kain Warwick
-- Main Address: `0x5b97680e165b4dbf5c45f4ff4241e85f418c66c2`
+- Main Address: `0x5A9e792143bf2708b4765C144451dCa54f559a19`
+- ENS: kain.eth
 - Role: Synthetix Founder
-- Verification: [Known Transactions](https://etherscan.io/address/0x5b97680e165b4dbf5c45f4ff4241e85f418c66c2)
+- Verification: [Twitter](https://twitter.com/kaiynne), ENS verification
 ----------------------------------------
 ### Arthur Hayes
 - Main Address: `0x75e89d5979E4f6Fba9F97c104c2F0AFB3F1dcB88`
