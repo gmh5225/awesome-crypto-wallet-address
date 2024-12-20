@@ -52,11 +52,7 @@ A curated list of verified wallet addresses belonging to notable figures in the 
 - Role: Synthetix Founder
 - Verification: [Twitter](https://twitter.com/kaiynne), ENS verification
 ----------------------------------------
-### Arthur Hayes
-- Main Address: `0x75e89d5979E4f6Fba9F97c104c2F0AFB3F1dcB88`
-- Role: BitMEX Co-founder
-- Verification: [Known Transactions](https://etherscan.io/address/0x75e89d5979E4f6Fba9F97c104c2F0AFB3F1dcB88)
-----------------------------------------
+
 ## Contributing
 We welcome contributions! Please feel free to submit a Pull Request.
 
