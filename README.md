@@ -5,9 +5,9 @@ A curated list of verified wallet addresses belonging to notable figures in the 
 ## Verified Addresses
 ----------------------------------------
 ### Ethereum Foundation
-- Main Multisig: `0xde0B295669a9FD93d5F28D9Ec85E40f4cb697BAe`
+- Address1: `0xd779332c5a52566dada11a075a735b18daa6c1f4`
 - Role: Ethereum Foundation Treasury
-- Verification: [Etherscan](https://etherscan.io/address/0xde0B295669a9FD93d5F28D9Ec85E40f4cb697BAe), [Official Recognition](https://blog.ethereum.org/)
+- Verification: [Known Transactions](https://etherscan.io/address/0xd779332c5a52566dada11a075a735b18daa6c1f4)
 - Note: One of the primary Ethereum Foundation addresses, used for grants and development funding
 ----------------------------------------
 ### Ethereum Foundation Development Wallet
