@@ -4,6 +4,18 @@ A curated list of verified wallet addresses belonging to notable figures in the 
 
 ## Verified Addresses
 ----------------------------------------
+### Ethereum Foundation
+- Main Multisig: `0xde0B295669a9FD93d5F28D9Ec85E40f4cb697BAe`
+- Role: Ethereum Foundation Treasury
+- Verification: [Etherscan](https://etherscan.io/address/0xde0B295669a9FD93d5F28D9Ec85E40f4cb697BAe), [Official Recognition](https://blog.ethereum.org/)
+- Note: One of the primary Ethereum Foundation addresses, used for grants and development funding
+----------------------------------------
+### Ethereum Foundation Development Wallet
+- Address: `0x9ee457023bb3de16d51a003a247baead74fd6453`
+- Role: Developer Grants and Bounties
+- Verification: [Etherscan](https://etherscan.io/address/0x9ee457023bb3de16d51a003a247baead74fd6453)
+- Note: Used for developer grants and ecosystem development
+----------------------------------------
 ### Vitalik Buterin
 - Main Address: `0xd8dA6BF26964aF9D7eEd9e03E53415D37aA96045`
 - ENS: vitalik.eth
