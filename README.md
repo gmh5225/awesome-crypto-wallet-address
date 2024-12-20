@@ -4,11 +4,11 @@ A curated list of verified wallet addresses belonging to notable figures in the 
 
 ## Verified Addresses
 ----------------------------------------
-### World Liberty Financial
+### World Liberty(Trump) Financial
 - Address: `0x5be9a4959308A0D0c7bC0870E319314d8D957dBB`
 - Role: DeFi Protocol Contract
 - Verification: [Etherscan](https://etherscan.io/address/0x5be9a4959308A0D0c7bC0870E319314d8D957dBB), [Official Website](https://www.worldlibertyfinancial.com/)
-- Note: Smart contract for World Liberty Financial DeFi protocol, a decentralized financial platform
+- Note: Smart contract for World Liberty(Trump) Financial DeFi protocol, a decentralized financial platform
 ----------------------------------------
 ### Ethereum Foundation Private Wallet
 - Address1: `0xd779332c5a52566dada11a075a735b18daa6c1f4`
