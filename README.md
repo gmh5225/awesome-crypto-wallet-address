@@ -41,10 +41,10 @@ A curated list of verified wallet addresses belonging to notable figures in the 
 - Role: Yearn Finance Founder
 - Verification: [Known Contributions](https://etherscan.io/address/0x431e81e5dfb5a24541b5ff8762bdef3f32f96354)
 ----------------------------------------
-### Michael Saylor
-- Main Address: `0x2f2d854C1d6d5BB16FA27A57c686c562Ef4d4782`
+### Michael Saylor / MicroStrategy
+- MacroStrategy BTC Address: `1P5ZEDWTKTFGxQjZphgWPQUpe554WKDfHQ`
 - Role: MicroStrategy CEO
-- Verification: [MicroStrategy BTC Purchases](https://etherscan.io/address/0x2f2d854C1d6d5BB16FA27A57c686c562Ef4d4782)
+- Verification: [BitInfoCharts](https://bitinfocharts.com/bitcoin/address/1P5ZEDWTKTFGxQjZphgWPQUpe554WKDfHQ)
 ----------------------------------------
 ### Kain Warwick
 - Main Address: `0x5b97680e165b4dbf5c45f4ff4241e85f418c66c2`
