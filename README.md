@@ -62,9 +62,8 @@ A curated list of verified wallet addresses belonging to notable figures in the 
 - Verification: [Known Contributions](https://etherscan.io/address/0x431e81e5dfb5a24541b5ff8762bdef3f32f96354)
 ----------------------------------------
 ### Michael Saylor / MicroStrategy
-- MacroStrategy BTC Address: `1P5ZEDWTKTFGxQjZphgWPQUpe554WKDfHQ`
 - Role: MicroStrategy CEO
-- Verification: [BitInfoCharts](https://bitinfocharts.com/bitcoin/address/1P5ZEDWTKTFGxQjZphgWPQUpe554WKDfHQ)
+- Verification: [SaylorTracker](https://saylortracker.com/)
 ----------------------------------------
 ### Kain Warwick
 - Main Address: `0x5A9e792143bf2708b4765C144451dCa54f559a19`
