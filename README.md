@@ -4,6 +4,12 @@ A curated list of verified wallet addresses belonging to notable figures in the 
 
 ## Verified Addresses
 ----------------------------------------
+### Silk Road
+- Address: [`bc1qa5wkgaew2dkv56kfvj49j0av5nml45x9ek9hz6`](https://www.blockchain.com/explorer/addresses/btc/bc1qa5wkgaew2dkv56kfvj49j0av5nml45x9ek9hz6)
+- Role: Darknet Marketplace
+- Verification: www.blockchain.com
+- Note: Silk Road was a notorious darknet marketplace operating from 2011 to 2013 that allowed users to anonymously buy and sell various goods
+----------------------------------------
 ### World Liberty(Trump) Financial
 - Address: [`0x5be9a4959308A0D0c7bC0870E319314d8D957dBB`](https://etherscan.io/address/0x5be9a4959308A0D0c7bC0870E319314d8D957dBB)
 - Role: DeFi Protocol Contract
