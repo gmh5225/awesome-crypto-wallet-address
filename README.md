@@ -10,6 +10,12 @@ A curated list of verified wallet addresses belonging to notable figures in the 
 - Verification: https://hypurrscan.io
 - Note: Hyperliquid Insider Trader
 ----------------------------------------
+### SharpLink Gaming
+- Address: [`0xCd9e09B30d481cc33937CE33fEB3d94D434F5F75`](https://intel.arkm.com/explorer/address/0xCd9e09B30d481cc33937CE33fEB3d94D434F5F75)
+- Role: SharpLink Gaming
+- Verification: https://intel.arkm.com
+- Note: SharpLink Gaming provides tech solutions for sports betting and iGaming. It has shifted to holding Ethereum (ETH) as its primary reserve, similar to MicroStrategy’s Bitcoin strategy, with 438,190 ETH by mid-2025 via purchases and staking.
+----------------------------------------
 ### Silk Road
 - Address: [`bc1qa5wkgaew2dkv56kfvj49j0av5nml45x9ek9hz6`](https://www.blockchain.com/explorer/addresses/btc/bc1qa5wkgaew2dkv56kfvj49j0av5nml45x9ek9hz6)
 - Role: Darknet Marketplace
