@@ -8,7 +8,7 @@ A curated list of verified wallet addresses belonging to notable figures in the 
 - Address: [`0x916ea2a9f3ba1ddd006c52babd0216e2ac54ed32`](https://hypurrscan.io/address/0x916ea2a9f3ba1ddd006c52babd0216e2ac54ed32)
 - Role: Hyperliquid Insider Trader
 - Verification: https://hypurrscan.io
-- Note: Hyperliquid Insider was a notorious entity operating from 2011 to 2013, known for engaging in insider trading activities within the Hyperliquid ecosystem, anonymously manipulating markets for various assets.
+- Note: Hyperliquid Insider Trader
 ----------------------------------------
 ### Silk Road
 - Address: [`bc1qa5wkgaew2dkv56kfvj49j0av5nml45x9ek9hz6`](https://www.blockchain.com/explorer/addresses/btc/bc1qa5wkgaew2dkv56kfvj49j0av5nml45x9ek9hz6)
