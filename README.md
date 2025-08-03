@@ -4,6 +4,12 @@ A curated list of verified wallet addresses belonging to notable figures in the 
 
 ## Verified Addresses
 ----------------------------------------
+### Hyperliquid BTC whale
+- Address: [`0xab15f1311653897cae7a60a8f82b7ad991df829a`](https://hypurrscan.io/address/0xab15f1311653897cae7a60a8f82b7ad991df829a)
+- Role: Hyperliquid BTC whale
+- Verification: https://hypurrscan.io
+- Note: Hyperliquid BTC whale
+----------------------------------------
 ### Hyperliquid Insider
 - Address: [`0x916ea2a9f3ba1ddd006c52babd0216e2ac54ed32`](https://hypurrscan.io/address/0x916ea2a9f3ba1ddd006c52babd0216e2ac54ed32)
 - Role: Hyperliquid Insider Trader
