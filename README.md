@@ -4,7 +4,7 @@ A curated list of verified wallet addresses belonging to notable figures in the 
 
 ## Verified Addresses
 ----------------------------------------
-# BlackRock
+### BlackRock
 - **Address**: [`BlackRock`](https://intel.arkm.com/explorer/entity/blackrock)
 - **Role**: BlackRock Entity
 - **Verification**: https://intel.arkm.com
