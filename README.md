@@ -4,6 +4,12 @@ A curated list of verified wallet addresses belonging to notable figures in the 
 
 ## Verified Addresses
 ----------------------------------------
+### Galaxy Digital: OTC
+- Address: [`0x33566c9D8BE6Cf0B23795E0d380E112Be9d75836`](https://intel.arkm.com/explorer/address/0x33566c9D8BE6Cf0B23795E0d380E112Be9d75836)
+- Role: Galaxy Digital: OTC
+- Verification: https://intel.arkm.com
+- Note: Facilitates large-scale OTC transactions for institutional clients, including significant BTC and ETH trades, with a focus on deep liquidity and risk management.
+----------------------------------------
 ### Hyperliquid BTC whale
 - Address: [`0xab15f1311653897cae7a60a8f82b7ad991df829a`](https://hypurrscan.io/address/0xab15f1311653897cae7a60a8f82b7ad991df829a)
 - Role: Hyperliquid BTC whale
