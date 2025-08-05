@@ -4,6 +4,12 @@ A curated list of verified wallet addresses belonging to notable figures in the 
 
 ## Verified Addresses
 ----------------------------------------
+# BlackRock Entity Note
+- **Address**: [`BlackRock`](https://intel.arkm.com/explorer/entity/blackrock)
+- **Role**: BlackRock Entity
+- **Verification**: https://intel.arkm.com
+- **Note**: Global investment management firm specializing in asset management, offering a range of investment products including ETFs, with significant involvement in cryptocurrency markets such as BTC and ETH, focusing on institutional client services and market stability.
+----------------------------------------
 ### Galaxy Digital: OTC
 - Address: [`0x33566c9D8BE6Cf0B23795E0d380E112Be9d75836`](https://intel.arkm.com/explorer/address/0x33566c9D8BE6Cf0B23795E0d380E112Be9d75836)
 - Role: Galaxy Digital: OTC
