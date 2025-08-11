@@ -22,6 +22,12 @@ A curated list of verified wallet addresses belonging to notable figures in the 
 - Verification: https://hypurrscan.io
 - Note: Hyperliquid BTC whale
 ----------------------------------------
+### Binance ETH whale
+- Address: [`0x3952D69643F7a87237C7fC8bB33f8453C0b45500`](https://intel.arkm.com/explorer/address/0x3952D69643F7a87237C7fC8bB33f8453C0b45500)
+- Role: Binance ETH whale
+- Verification: https://intel.arkm.com
+- Note: Binance ETH whale
+----------------------------------------
 ### Hyperliquid Insider
 - Address: [`0x916ea2a9f3ba1ddd006c52babd0216e2ac54ed32`](https://hypurrscan.io/address/0x916ea2a9f3ba1ddd006c52babd0216e2ac54ed32)
 - Role: Hyperliquid Insider Trader
