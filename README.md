@@ -10,6 +10,12 @@ A curated list of verified wallet addresses belonging to notable figures in the 
 - **Verification**: https://intel.arkm.com
 - **Note**: Global investment management firm specializing in asset management, offering a range of investment products including ETFs, with significant involvement in cryptocurrency markets such as BTC and ETH, focusing on institutional client services and market stability.
 ----------------------------------------
+### Bitmine
+- **Address**: [`Bitmine`](https://intel.arkm.com/explorer/entity/bitmine)
+- **Role**: Bitmine Entity
+- **Verification**: https://intel.arkm.com
+- **Note**: BitMine Immersion Technologies, Inc. is a cryptocurrency-focused company specializing in Bitcoin mining and Ethereum treasury accumulation. It operates mining facilities in low-cost energy regions like Trinidad and Texas and has become the largest corporate holder of Ethereum, targeting 5% of the total ETH supply through staking and reinvestment. The company employs an asset-light strategy to enhance shareholder value and supports Ethereum network security, with additional investments in Bitcoin and validator infrastructure.
+----------------------------------------
 ### Galaxy Digital: OTC
 - Address: [`0x33566c9D8BE6Cf0B23795E0d380E112Be9d75836`](https://intel.arkm.com/explorer/address/0x33566c9D8BE6Cf0B23795E0d380E112Be9d75836)
 - Role: Galaxy Digital: OTC
