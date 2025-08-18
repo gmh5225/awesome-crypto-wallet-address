@@ -17,7 +17,7 @@ A curated list of verified wallet addresses belonging to notable figures in the 
 - **Note**: ARK Invest, led by Cathie Wood, is a global investment management firm focused on disruptive innovation, offering ETFs in technologies like blockchain, AI, and robotics. It has significant investments in Bitcoin, Ethereum, and crypto-related companies like Coinbase and BitMine, emphasizing long-term growth in digital assets.
 ----------------------------------------
 ### Bitmine
-- **Address**: [`Bitmine`](https://intel.arkm.com/explorer/entity/bitmine)
+- **Address**: [`Bitmine`](https://intel.arkm.com/explorer/entity/bitmine), [`0xcDda5d6861989874639fc92CEa923b2e80E02F69`](https://intel.arkm.com/explorer/address/0xcDda5d6861989874639fc92CEa923b2e80E02F69)
 - **Role**: Bitmine Entity
 - **Verification**: https://intel.arkm.com
 - **Note**: BitMine Immersion Technologies, Inc. is a cryptocurrency-focused company specializing in Bitcoin mining and Ethereum treasury accumulation. It operates mining facilities in low-cost energy regions like Trinidad and Texas and has become the largest corporate holder of Ethereum, targeting 5% of the total ETH supply through staking and reinvestment. The company employs an asset-light strategy to enhance shareholder value and supports Ethereum network security, with additional investments in Bitcoin and validator infrastructure.
