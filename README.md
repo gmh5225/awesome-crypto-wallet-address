@@ -29,7 +29,7 @@ A curated list of verified wallet addresses belonging to notable figures in the 
 - Note: Facilitates large-scale OTC transactions for institutional clients, including significant BTC and ETH trades, with a focus on deep liquidity and risk management.
 ----------------------------------------
 ### Hyperliquid BTC whale
-- Address: [`0xab15f1311653897cae7a60a8f82b7ad991df829a`](https://hypurrscan.io/address/0xab15f1311653897cae7a60a8f82b7ad991df829a)
+- Address: [`0xab15f1311653897cae7a60a8f82b7ad991df829a`](https://hypurrscan.io/address/0xab15f1311653897cae7a60a8f82b7ad991df829a), [`0x4044570e13b5184f7eb2709de25a4eb766a4794c`](https://hypurrscan.io/address/0x4044570e13b5184f7eb2709de25a4eb766a4794c)
 - Role: Hyperliquid BTC whale
 - Verification: https://hypurrscan.io
 - Note: Hyperliquid BTC whale
