@@ -59,9 +59,9 @@ A curated list of verified wallet addresses belonging to notable figures in the 
 - Note: Silk Road was a notorious darknet marketplace operating from 2011 to 2013 that allowed users to anonymously buy and sell various goods
 ----------------------------------------
 ### World Liberty(Trump) Financial
-- Address: [`0x5be9a4959308A0D0c7bC0870E319314d8D957dBB`](https://etherscan.io/address/0x5be9a4959308A0D0c7bC0870E319314d8D957dBB)
-- Role: DeFi Protocol Contract
-- Verification: [Etherscan](https://etherscan.io/address/0x5be9a4959308A0D0c7bC0870E319314d8D957dBB), [Official Website](https://www.worldlibertyfinancial.com/)
+- Address: [`0x5be9a4959308A0D0c7bC0870E319314d8D957dBB`](https://intel.arkm.com/explorer/address/0x5be9a4959308A0D0c7bC0870E319314d8D957dBB). [`0x77a56647fba0eb60abb7395574Cded565F6F94F6`](https://intel.arkm.com/explorer/address/0x77a56647fba0eb60abb7395574Cded565F6F94F6)
+- Role: World Liberty
+- Verification: https://intel.arkm.com, [Official Website](https://www.worldlibertyfinancial.com/)
 - Note: Smart contract for World Liberty(Trump) Financial DeFi protocol, a decentralized financial platform
 ----------------------------------------
 ### Ethereum Foundation Private Wallet
