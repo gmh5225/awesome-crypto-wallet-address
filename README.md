@@ -10,6 +10,12 @@ A curated list of verified wallet addresses belonging to notable figures in the 
 - **Verification**: https://intel.arkm.com
 - **Note**: Global investment management firm specializing in asset management, offering a range of investment products including ETFs, with significant involvement in cryptocurrency markets such as BTC and ETH, focusing on institutional client services and market stability.
 ----------------------------------------
+### Ethena
+- **Address**: [`0x877b3D5c681C8890d19dbF450306Caa3C3D4bba6`](https://intel.arkm.com/explorer/address/0x877b3D5c681C8890d19dbF450306Caa3C3D4bba6)
+- **Role**: Ethena
+- **Verification**: https://intel.arkm.com
+- **Note**: Ethena is a synthetic dollar protocol built on Ethereum that provides a crypto-native solution for money not reliant on traditional banking system.
+----------------------------------------
 ### ARK Invest
 - **Address**: [`ARK Invest`](https://intel.arkm.com/explorer/entity/ark-invest)
 - **Role**: ARK Invest Entity
