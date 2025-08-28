@@ -53,7 +53,7 @@ A curated list of verified wallet addresses belonging to notable figures in the 
 - Note: Hyperliquid Insider Trader
 ----------------------------------------
 ### SharpLink Gaming
-- Address: [`0xCd9e09B30d481cc33937CE33fEB3d94D434F5F75`](https://intel.arkm.com/explorer/address/0xCd9e09B30d481cc33937CE33fEB3d94D434F5F75), [`0xB8AAbd46F08d921b3f188e7aa7160e061b4C636C`](https://intel.arkm.com/explorer/address/0xB8AAbd46F08d921b3f188e7aa7160e061b4C636C), [`0xd86d5de59B5643716B297163CEbD30F1Bd52E014`](https://intel.arkm.com/explorer/address/0xd86d5de59B5643716B297163CEbD30F1Bd52E014)
+- Address: [`0xCd9e09B30d481cc33937CE33fEB3d94D434F5F75`](https://intel.arkm.com/explorer/address/0xCd9e09B30d481cc33937CE33fEB3d94D434F5F75), [`0xB8AAbd46F08d921b3f188e7aa7160e061b4C636C`](https://intel.arkm.com/explorer/address/0xB8AAbd46F08d921b3f188e7aa7160e061b4C636C), [`0xd86d5de59B5643716B297163CEbD30F1Bd52E014`](https://intel.arkm.com/explorer/address/0xd86d5de59B5643716B297163CEbD30F1Bd52E014), [`0xB88fd83AFFE845148011dDa29DA25f984A557A2b`](https://intel.arkm.com/explorer/address/0xB88fd83AFFE845148011dDa29DA25f984A557A2b)
 - Role: SharpLink Gaming
 - Verification: https://intel.arkm.com
 - Note: SharpLink Gaming provides tech solutions for sports betting and iGaming. It has shifted to holding Ethereum (ETH) as its primary reserve, similar to MicroStrategy’s Bitcoin strategy, with 438,190 ETH by mid-2025 via purchases and staking.
