@@ -71,8 +71,9 @@ A curated list of verified wallet addresses belonging to notable figures in the 
 - Note: Smart contract for World Liberty(Trump) Financial DeFi protocol, a decentralized financial platform
 ----------------------------------------
 ### Ethereum Foundation Private Wallet
-- Address1: [`0xd779332c5a52566dada11a075a735b18daa6c1f4`](https://etherscan.io/address/0xd779332c5a52566dada11a075a735b18daa6c1f4)
-- Address2: [`0x9d2d789725cd742e6f4e423cec33408598cc43b1`](https://etherscan.io/address/0x9d2d789725cd742e6f4e423cec33408598cc43b1)
+- Address1: [`0xd779332c5a52566dada11a075a735b18daa6c1f4`](https://intel.arkm.com/explorer/address/0xd779332c5a52566dada11a075a735b18daa6c1f4)
+- Address2: [`0x9d2d789725cd742e6f4e423cec33408598cc43b1`](https://intel.arkm.com/explorer/address/0x9d2d789725cd742e6f4e423cec33408598cc43b1)
+- Address3: [`0xf39d30fa570db7940e5b3a3e42694665a1449e4b`](https://intel.arkm.com/explorer/address/0xF39d30Fa570db7940e5b3A3e42694665A1449E4B)
 - Role: Ethereum Foundation Treasury
 - Verification: [Known Transactions](https://etherscan.io/tx/0x04c396580129619efaf0602ce5a762a3c72e9718012600ade7af8fb17b747704), [Known Transactions](https://etherscan.io/tx/0x8e8180fb429ddaa6895cb5480b75ddda00f8357d8efcf9049b8b13ceab13cdec)
 - Note: One of the private Ethereum Foundation addresses.
