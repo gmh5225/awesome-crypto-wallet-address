@@ -4,6 +4,12 @@ A curated list of verified wallet addresses belonging to notable figures in the 
 
 ## Verified Addresses
 ----------------------------------------
+### Tether
+- **Address**: [`Tether`](https://intel.arkm.com/explorer/entity/tether). [`0x5754284f345afc66a98fbB0a0Afe71e0F007B949`](https://intel.arkm.com/explorer/address/0x5754284f345afc66a98fbB0a0Afe71e0F007B949)
+- **Role**: Tether Entity
+- **Verification**: https://intel.arkm.com
+- **Note**: Tether is a blockchain-enabled platform designed to facilitate the use of fiat currencies in a digital manner.
+----------------------------------------
 ### BlackRock
 - **Address**: [`BlackRock`](https://intel.arkm.com/explorer/entity/blackrock)
 - **Role**: BlackRock Entity
