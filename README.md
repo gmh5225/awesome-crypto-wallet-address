@@ -4,6 +4,12 @@ A curated list of verified wallet addresses belonging to notable figures in the 
 
 ## Verified Addresses
 ----------------------------------------
+### Wintermute
+- **Address**: [`Wintermute`](https://intel.arkm.com/explorer/entity/wintermute)
+- **Role**: Tether Entity
+- **Verification**: https://intel.arkm.com
+- **Note**: A leading algorithmic trading firm, focused on harnessing the chaos of digital assets into liquid and efficient markets.
+----------------------------------------
 ### Tether
 - **Address**: [`Tether`](https://intel.arkm.com/explorer/entity/tether). [`0x5754284f345afc66a98fbB0a0Afe71e0F007B949`](https://intel.arkm.com/explorer/address/0x5754284f345afc66a98fbB0a0Afe71e0F007B949)
 - **Role**: Tether Entity
