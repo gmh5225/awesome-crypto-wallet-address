@@ -4,9 +4,15 @@ A curated list of verified wallet addresses belonging to notable figures in the 
 
 ## Verified Addresses
 ----------------------------------------
+### FalconX
+- **Address**: [`falconx`](https://intel.arkm.com/explorer/entity/falconx)
+- **Role**: FalconX Entity
+- **Verification**: https://intel.arkm.com
+- **Note**: FalconX is the leading digital asset prime broker providing deep liquidity, financing, and advanced technology solutions to the world's top institutions.
+----------------------------------------
 ### Wintermute
 - **Address**: [`Wintermute`](https://intel.arkm.com/explorer/entity/wintermute)
-- **Role**: Tether Entity
+- **Role**: Wintermute Entity
 - **Verification**: https://intel.arkm.com
 - **Note**: A leading algorithmic trading firm, focused on harnessing the chaos of digital assets into liquid and efficient markets.
 ----------------------------------------
