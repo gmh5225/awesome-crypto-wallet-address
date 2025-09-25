@@ -4,11 +4,17 @@ A curated list of verified wallet addresses belonging to notable figures in the 
 
 ## Verified Addresses
 ----------------------------------------
+### Binance
+- **Address**: [`Binance`](https://intel.arkm.com/explorer/entity/binance)
+- **Role**: Binance Entity
+- **Verification**: https://intel.arkm.com
+- **Note**: Binance, the largest crypto exchange by trading volume.
+----------------------------------------
 ### Kraken
 - **Address**: [`Kraken`](https://intel.arkm.com/explorer/entity/kraken)
 - **Role**: Kraken Entity
 - **Verification**: https://intel.arkm.com
-- **Note**: Buy, sell, trade, and store your cryptocurrencies on Kraken, a regulated and secure crypto trading platform .
+- **Note**: Buy, sell, trade, and store your cryptocurrencies on Kraken, a regulated and secure crypto trading platform.
 ----------------------------------------
 ### FalconX
 - **Address**: [`Falconx`](https://intel.arkm.com/explorer/entity/falconx)
