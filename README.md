@@ -4,6 +4,12 @@ A curated list of verified wallet addresses belonging to notable figures in the 
 
 ## Verified Addresses
 ----------------------------------------
+### Bitgo
+- **Address**: [`Bitgo`](https://intel.arkm.com/explorer/entity/bitgo)
+- **Role**: Bitgo Entity
+- **Verification**: https://intel.arkm.com
+- **Note**: Instantly settle USD and digital assets 24/7 with leading institutions, exchanges, and liquidity providers.
+----------------------------------------
 ### Binance
 - **Address**: [`Binance`](https://intel.arkm.com/explorer/entity/binance)
 - **Role**: Binance Entity
