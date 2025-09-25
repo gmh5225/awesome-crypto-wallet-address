@@ -128,6 +128,11 @@ A curated list of verified wallet addresses belonging to notable figures in the 
 - Role: Ethereum Co-founder
 - Verification: [Twitter](https://twitter.com/VitalikButerin), ENS verification
 ----------------------------------------
+### Jeffrey Wilcke
+- Main Address: [`jeffrey-wilcke`](https://intel.arkm.com/explorer/entity/jeffrey-wilcke), [`0x65CEC57A4993991d85f0c2B81DFe966062C10Dd3`](https://intel.arkm.com/explorer/address/0x65CEC57A4993991d85f0c2B81DFe966062C10Dd3), [`0x8215C2D3a838cBb18C4033417D18970fD9758524`](https://intel.arkm.com/explorer/address/0x8215C2D3a838cBb18C4033417D18970fD9758524)
+- Role: Ethereum Co-founder
+- Verification: [Twitter](https://x.com/jeffehh), https://intel.arkm.com
+----------------------------------------
 ### Changpeng Zhao (CZ)
 - Main Address: `0xF977814e90dA44bFA03b6295A0616a897441aceC`
 - Role: Binance Founder & CEO
