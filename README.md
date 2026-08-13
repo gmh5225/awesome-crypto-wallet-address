@@ -175,6 +175,7 @@ A curated list of verified wallet addresses belonging to notable figures in the 
 - Verification: [SaylorTracker](https://saylortracker.com/)
 ----------------------------------------
 ### Kain Warwick
+- [Solana Price Alert (n8n)](https://github.com/DeusAcc/n8n-solana-price-alert) - Free n8n workflow: alerts on Telegram when a Solana SPL token price crosses a threshold, no external database, ready in 5 minutes.
 - Main Address: `0x5A9e792143bf2708b4765C144451dCa54f559a19`
 - ENS: kain.eth
 - Role: Synthetix Founder
