@@ -179,6 +179,7 @@ A curated list of verified wallet addresses belonging to notable figures in the 
 - ENS: kain.eth
 - Role: Synthetix Founder
 - Verification: [Twitter](https://twitter.com/kaiynne), ENS verification
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 ----------------------------------------
 
 ## Contributing
